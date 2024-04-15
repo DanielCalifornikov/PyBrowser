@@ -1,2 +1,2 @@
-# PyBrowser
-Python Browser PyQt=/5.6
+PyQt5>=5.6
+sip
